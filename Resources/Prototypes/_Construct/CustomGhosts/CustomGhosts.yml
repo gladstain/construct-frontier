@@ -1,0 +1,15 @@
+- type: customGhost
+  id: gooseduck-ghost
+  ckey: gooseduck
+  sprite: /Textures/_Construct/CustomGhosts/gooseduck-ghost.rsi
+  alpha: 0.8
+  ghostName: GooseDuck
+  ghostDescription: "пыр пыр папа бил"
+
+- type: customGhost
+  id: TvoiOtec-ghost
+  ckey: TvoiOtec
+  sprite: /Textures/_Construct/CustomGhosts/TvoiOtec-ghost.rsi
+  alpha: 0.8
+  ghostName: TvoiOtec
+  ghostDescription: ""
